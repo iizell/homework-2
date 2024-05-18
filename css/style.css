@@ -1,4 +1,10 @@
 h1 {
-    color: blueviolet;
+    color: #FFFFFF;
     font-family: "Roboto", sans-serif;
+}
+#features{
+    background-color: #2E2F42;
+    width: 1440px;
+    height: 600px;
+    margin-top: 72px;
 }
