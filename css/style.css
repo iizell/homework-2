@@ -11,6 +11,9 @@ body{
     color: #434455;
     font-family: "Roboto", sans-serif;
 }
+#navbar{
+    text-decoration: none;
+}
 .logoweb{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
