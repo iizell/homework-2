@@ -29,6 +29,9 @@ body{
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+.address{
+    font-style: normal;
+}
 #features{
     background-color: #2E2F42;
     width: 1440px;
