@@ -31,6 +31,12 @@ body{
 }
 .address{
     font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455;
+}
+.address:hover{
+    color: #404bbf;
 }
 #features{
     background-color: #2E2F42;
