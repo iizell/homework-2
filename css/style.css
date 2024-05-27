@@ -37,6 +37,7 @@ body{
 }
 .address:hover{
     color: #404bbf;
+    background-color: #404bbf;
 }
 #features{
     background-color: #2E2F42;
