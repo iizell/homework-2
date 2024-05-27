@@ -23,6 +23,12 @@ body{
 .logostudio{
     color:#2E2F42;
 }
+.navinfo{
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
 #features{
     background-color: #2E2F42;
     width: 1440px;
