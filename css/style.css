@@ -76,6 +76,10 @@ body{
     color: #FFFFFF;
 
 }
+.button:hover{
+    background-color: #404bbf;
+
+}
 .button:focus {
     background-color: #404BBF;
     cursor: pointer;
