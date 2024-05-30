@@ -55,7 +55,7 @@ body{
 .address:focus{
     color: #404bbf;
 }
-.features{
+.features_{
     background-color: #2E2F42;
     width: 1440px;
     height: 600px;
