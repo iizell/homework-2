@@ -32,6 +32,9 @@ body{
     color: #4d5ae5;
     text-decoration: none;
 }
+#navbar{
+    text-decoration: none;
+}
 .navinfo{
     font-weight: 500;
     line-height: 1.5;
@@ -57,4 +60,21 @@ body{
     width: 1440px;
     height: 600px;
     margin-top: 72px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+}
+#button{
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+
+}
+#button:hover {
+    background-color: #404BBF;
+    cursor: pointer;
 }
